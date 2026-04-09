@@ -71,7 +71,7 @@ src/
 
 ## 👩‍💻 Author
 
-**Astha Singh Parihar**  
+**Astha Singh **  
 📧 asthasinghparihar5@gmail.com  
 🔗 GitHub: https://github.com/astha647  
 🔗 LinkedIn: https://www.linkedin.com/in/astha-singh-parihar
